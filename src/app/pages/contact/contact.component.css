@@ -1,0 +1,15 @@
+.container h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--primeira-color);
+}
+
+form{
+    width: 90%;
+    padding-left: 50px;
+}
+
+button{
+    background-color:var(--primeira-color);
+    border-color: var(--primeira-color);
+}

@@ -1,0 +1,13 @@
+form{
+margin-top: 5%;
+width: 100%;
+}
+
+button{
+    background-color:var(--primeira-color);
+    border-color: var(--primeira-color);
+}
+
+img{
+    border-radius: 10px;
+}
